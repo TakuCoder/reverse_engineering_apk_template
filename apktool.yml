@@ -1,8 +1,19 @@
 !!brut.androlib.meta.MetaInfo
-apkFileName: devTest.apk
+apkFileName: app-debug.apk
 compressionType: false
 doNotCompress:
 - resources.arsc
+- png
+- res/mipmap-mdpi-v4/ic_launcher.webp
+- res/mipmap-mdpi-v4/ic_launcher_round.webp
+- res/mipmap-hdpi-v4/ic_launcher.webp
+- res/mipmap-hdpi-v4/ic_launcher_round.webp
+- res/mipmap-xhdpi-v4/ic_launcher.webp
+- res/mipmap-xhdpi-v4/ic_launcher_round.webp
+- res/mipmap-xxhdpi-v4/ic_launcher.webp
+- res/mipmap-xxhdpi-v4/ic_launcher_round.webp
+- res/mipmap-xxxhdpi-v4/ic_launcher.webp
+- res/mipmap-xxxhdpi-v4/ic_launcher_round.webp
 - META-INF/androidx.activity_activity.version
 - META-INF/androidx.annotation_annotation-experimental.version
 - META-INF/androidx.appcompat_appcompat-resources.version
@@ -41,17 +52,6 @@ doNotCompress:
 - META-INF/androidx.viewpager2_viewpager2.version
 - META-INF/androidx.viewpager_viewpager.version
 - META-INF/com.google.android.material_material.version
-- png
-- res/mipmap-mdpi-v4/ic_launcher.webp
-- res/mipmap-mdpi-v4/ic_launcher_round.webp
-- res/mipmap-hdpi-v4/ic_launcher.webp
-- res/mipmap-hdpi-v4/ic_launcher_round.webp
-- res/mipmap-xhdpi-v4/ic_launcher.webp
-- res/mipmap-xhdpi-v4/ic_launcher_round.webp
-- res/mipmap-xxhdpi-v4/ic_launcher.webp
-- res/mipmap-xxhdpi-v4/ic_launcher_round.webp
-- res/mipmap-xxxhdpi-v4/ic_launcher.webp
-- res/mipmap-xxxhdpi-v4/ic_launcher_round.webp
 isFrameworkApk: false
 packageInfo:
   forcedPackageId: '127'

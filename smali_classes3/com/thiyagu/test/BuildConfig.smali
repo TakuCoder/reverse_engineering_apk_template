@@ -4,7 +4,7 @@
 
 
 # static fields
-.field public static final APPLICATION_ID:Ljava/lang/String; = "com.thiyagu.test"
+.field public static final APPLICATION_ID:Ljava/lang/String; = "com.thiyagu.rest"
 
 .field public static final BUILD_TYPE:Ljava/lang/String; = "debug"
 

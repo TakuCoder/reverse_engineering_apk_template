@@ -1,10 +1,10 @@
 Signature-Version: 1.0
 Created-By: Android Gradle 7.1.1
-SHA-256-Digest-Manifest: CL9+IMr2YtrM2iZUp5d6imAiGl4glOTSaqfs5DdCSSI=
+SHA-256-Digest-Manifest: AAW4EwlSoUEE6i/G2SYBcJ6qACZe1GVNnfB9IKApFzo=
 X-Android-APK-Signed: 2
 
 Name: AndroidManifest.xml
-SHA-256-Digest: ij4oMaiAf4fveFZm2efSz4kG7ak/BM0zKw5pZJfHpIs=
+SHA-256-Digest: WH5VpfrUio8kYN8IrHxOXuEEGlfJ3NfQ9FgWDuC+NAg=
 
 Name: META-INF/androidx.activity_activity.version
 SHA-256-Digest: ratfz4kMEa912SP/uqBfjQMS6pAxdT34zSGheHVxcoU=
@@ -133,7 +133,7 @@ Name: classes2.dex
 SHA-256-Digest: rlHuHFYKv10o3Vt4UcidQQ7rF+8K+ns9eyjOppQMkMU=
 
 Name: classes3.dex
-SHA-256-Digest: /uQOA2MaOIYI6wycTs5mz0fWBqAoMFz8FUceg4u87aU=
+SHA-256-Digest: BGX0Ddybm29IHfbUFF3oSwyYl0S2XGe4pwkmUkJjyzY=
 
 Name: res/anim-v21/design_bottom_sheet_slide_in.xml
 SHA-256-Digest: P5S0KnaC+xvgD9NF1ZlQsaN6sInvYZTLqF9+YVXfbxU=
@@ -2238,5 +2238,5 @@ Name: res/xml/standalone_badge_offset.xml
 SHA-256-Digest: z9qdEgrEnVJGpWKIEu7dtghuNGKn8rHo1FQx/Xgh6Nc=
 
 Name: resources.arsc
-SHA-256-Digest: SoYymckBykmw5Kq0AWrMLVZB0TZK/XwA6XCkkJi58to=
+SHA-256-Digest: 8liHCLKxGjD4iF8u608AV9cAE+iUmjEKTvG9L1Wh1wg=
 

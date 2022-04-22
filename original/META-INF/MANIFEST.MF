@@ -3,7 +3,7 @@ Built-By: Signflinger
 Created-By: Android Gradle 7.1.1
 
 Name: AndroidManifest.xml
-SHA-256-Digest: uq3bT/iupQ9RhgfLhVVJD1BKG4wGquC7bKYbOH++LuY=
+SHA-256-Digest: 94ZZKBoPd1504pQJ7L1M2wItPdf+qgQY5yp+fghfhS0=
 
 Name: META-INF/androidx.activity_activity.version
 SHA-256-Digest: VjoLTuw8d7vDSsYw1PpSFPXGcmrgFGhAT9cERzEQCE4=
@@ -132,7 +132,7 @@ Name: classes2.dex
 SHA-256-Digest: YGgoMzIP0gqCv3XN0EdMCNHFAPxm5MbT/xrXwtrmNJY=
 
 Name: classes3.dex
-SHA-256-Digest: n1bzjtcAS3RAKd9LGM4pNxQinNJncz5bAJ3x4pgHDG4=
+SHA-256-Digest: R23oV31ilN5IoC1rKopTSecX+E2YgAm2yoUdh10qJjQ=
 
 Name: res/anim-v21/design_bottom_sheet_slide_in.xml
 SHA-256-Digest: We+GbTPtN38fjg4bMCsRHJLAHTHaq5NlYm5zJlMN6ec=
@@ -2237,5 +2237,5 @@ Name: res/xml/standalone_badge_offset.xml
 SHA-256-Digest: YxbhkaxRYYZZUF7a4H9MJwxNnwsiqdf86f8SeGwzq8g=
 
 Name: resources.arsc
-SHA-256-Digest: Z173GxNcG4p/z0ozIj7ec2xKDcPsvgFZ8DNIaJb5cOw=
+SHA-256-Digest: T/cRrtmYo9+1CIQ6dr77Bl9QygYa/ZaPW/ZnSvdhJW8=
 
